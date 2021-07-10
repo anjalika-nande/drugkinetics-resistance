@@ -1,6 +1,6 @@
 # drugkinetics-resistance
 ## Description
-This repository contains code that was used to generate the results in 'The impact of drug kinetics on the evolution of resistance' by Anjalika Nande and Alison L Hill.
+This repository contains code that was used to generate the results in 'The risk of drug resistance during long-acting antimicrobial therapy' by Anjalika Nande and Alison L Hill.
 ## Contents
 * sinusoidal_model_preexistence_rescue.nb : This Mathematica notebook contains code that was used to calculate the risks of resistance due to pre-existing and rescue mutants under the sinusoidal model of drug efficacy.
 * pharma_model_preexistence_rescue.nb : This Mathematica notebook contains code that was used to calculate the risks of resistance due to pre-existing and rescue mutants under the pharmacologically-inspired model of drug efficacy.
